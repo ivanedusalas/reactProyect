@@ -1,0 +1,13 @@
+PASAR A FORMIK Y DAR VALIDACIONES.
+
+extra:  el usuario debe ser mayor de 18 años. 
+
+HACER VALIDATE CON YUP
+
+COMO HACER POST AXIOS 
+
+GET / POST AXIOS
+
+
+
+
