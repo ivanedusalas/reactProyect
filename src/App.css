@@ -58,6 +58,7 @@ input[type="radio"] {
   border: 3px solid black;
   padding: 3%;
   width: 30%;
+  
 }
 
 .formButton {
@@ -68,4 +69,8 @@ input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
+}
+
+.cardCar {
+  width: 18rem;
 }
